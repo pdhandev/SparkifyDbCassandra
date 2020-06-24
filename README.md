@@ -1,7 +1,7 @@
 # SparkifyDb   
 
 #### Purpose
-The ETL project is designed and implemented to help my company Sparkify to perform analysis on users' song play activity using our new music app event data.
+The ETL project is designed and implemented to help a hypothetical company Sparkify to perform analysis on users' song play activity using our new music app event data.
 
 #### Database design and ETL pipeline
 
