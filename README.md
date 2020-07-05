@@ -5,7 +5,7 @@ The ETL project is designed and implemented to help a hypothetical company Spark
 
 #### Database design and ETL pipeline
 
-The data is ingested from source folders _event_data_ in form of csv files using pandas library in Python. Data is further filtered, cleaned and recorde using Cassandra CQL and Python (psycopg2) statements and commands. The tables are created to answer below questions.
+The data is ingested from source folders _event_data_ in form of csv files using pandas library in Python. Data is further filtered, cleaned and recorde using Cassandra CQL and Python statements and commands. The tables are created to answer below questions.
 
 #### Example of some analysis query:
 
